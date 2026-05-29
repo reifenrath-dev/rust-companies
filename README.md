@@ -20,8 +20,8 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Bencher](https://bencher.dev) ([GitHub](https://github.com/bencherdev/bencher)) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 * [Brave](https://brave.com)
   ([GitHub](https://github.com/brave/adblock-rust)) - Adblock engine for Brave Browser.
-* [Code Input](https://codeinput.com) ([GitHub](https://github.com/CodeInputCorp/cli)) - Developer productivity tools around Git.
 * [Canonical](https://canonical.com/) ([1](https://discourse.ubuntu.com/t/carefully-but-purposefully-oxidising-ubuntu/56995), [2](https://discourse.ubuntu.com/t/adopting-sudo-rs-by-default-in-ubuntu-25-10/60583)) - Canonical is a UK-based software company best known for developing and maintaining Ubuntu, a popular open-source Linux distribution.
+* [Code Input](https://codeinput.com) ([GitHub](https://github.com/CodeInputCorp/cli)) - Developer productivity tools around Git.
 * [Discord](https://discordapp.com)
   ([1](https://discord.com/blog/using-rust-to-scale-elixir-for-11-million-concurrent-users), [2](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)) - Communication Platform designed for communities.
 * [DungeonFog](https://www.dungeonfog.com/news/project-deios/)
@@ -41,10 +41,10 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Mozilla](https://www.mozilla.org)
   ([GitHub](https://github.com/mozilla), [Servo](https://servo.org)) - Building the Servo browser engine, integrating into Firefox, other projects.
 * [Proton](https://proton.me/) ([Blog Post - Proton Mail](https://proton.me/blog/next-generation-proton-mail-mobile-apps), [Blog Post - Authenticator](https://proton.me/blog/authenticator-rust), [GitHub - Proton Mail and more](https://github.com/ProtonMail), [GitHub - Proton Calendar](https://github.com/ProtonMail), [GitHub - Proton Drive](https://github.com/ProtonDriveApps), [GitHub - Proton Meet](https://github.com/ProtonMeet), [GitHub - Proton VPN](https://github.com/ProtonVPN/), [GitHub - Proton Pass](https://github.com/protonpass/), [GitHub - Proton Wallet](https://github.com/protonwallet/), [GitHub - Proton Lumo](https://github.com/ProtonLumo)) - Protons journey began with Proton Mail, the largest secure email service globally, and has since expanded to include Proton VPN, Proton Calendar, Proton Drive, Proton Pass, Proton Authenticator, Proton Lumo and Proton Meet. They are now migrating many of their core libraries to Rust, for cross-platform usage.
-* [Qumulo](https://qumulo.com/)([1](https://qumulo.com/blog/rust-programming-language-at-qumulo/), [2](https://qumulo.com/blog/writing-procedural-macros-in-rust/)) - Hybrid cloud storage.
-* [Stackable](https://stackable.tech/)([1](https://github.com/stackabletech/kafka-operator#about-the-stackable-data-platform)) - Creating a modular open source data platform. Rust powers all our operators to help make popular data applications straightforward to run on Kubernetes.
 * [Polars](https://pola.rs/) ([GitHub](https://github.com/pola-rs)) - Open-source DataFrame library for data manipulation and analysis. It is implemented in Rust and uses Apache Arrow's columnar memory format for efficient data processing.
+* [Qumulo](https://qumulo.com/)([1](https://qumulo.com/blog/rust-programming-language-at-qumulo/), [2](https://qumulo.com/blog/writing-procedural-macros-in-rust/)) - Hybrid cloud storage.
 * [Searchcraft](https://searchcraft.io/) ([GitHub](https://github.com/searchcraft-inc) - [1](https://www.searchcraft.io/why-we-built-searchcraft)) - Search engine built from the ground up in Rust.
+* [Stackable](https://stackable.tech/)([1](https://github.com/stackabletech/kafka-operator#about-the-stackable-data-platform)) - Creating a modular open source data platform. Rust powers all our operators to help make popular data applications straightforward to run on Kubernetes.
 * [SurrealDB](https://surrealdb.com/) ([GitHub](https://github.com/surrealdb) - [1](https://surrealdb.com/blog/why-we-are-betting-on-rust)) - Open-source and distributed database.
 * [Svix](https://www.svix.com/) ([GitHub](https://github.com/svix/svix-webhooks)) - The enterprise ready webhooks service
 * [Zed.dev](https://zed.dev/) ([Github](https://github.com/zed-industries/zed)) - Zed is a next-generation code editor designed for high-performance collaboration with humans and AI.
@@ -68,8 +68,8 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 #### Aerospace
 
 * [Cryptosat.io](https://cryptosat.io) ([GitHub](https://github.com/cryptosat)) - Building the Trust Infrastructure for Web3, using satellites, in space.
-* [Lechev.space](https://lechev.space) ([GitHub](https://github.com/LechevSpace)) - Building various aerospace-related projects including a Ground station service using Rust.
 * [K2Sapce](https://www.k2space.com/) - K2 Space maximizes the amount of power, mass and volume that can be deployed with today's launch vehicle.
+* [Lechev.space](https://lechev.space) ([GitHub](https://github.com/LechevSpace)) - Building various aerospace-related projects including a Ground station service using Rust.
 
 #### Public transport
 
@@ -97,14 +97,14 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 #### Cloud | Hosting
 
+* [Ceph](https://ceph.io/)([1](https://github.com/ceph/ceph-rust)) Rust bindings for librbd, an interface into the Ceph storage platform.
 * [Clever Cloud](https://www.clever-cloud.com)([1](https://www.clever-cloud.com/doc/rust/rust/)) - We host Rust web applications, and a part of our infrastructure is developed in Rust.
 * [Cloudflare](https://www.cloudflare.com) - We are using Rust as a replacement for memory-unsafe languages (particularly C) and are using it in our core edge logic.
 * [Cloudflare Workers](https://workers.cloudflare.com/)([1](https://developers.cloudflare.com/workers/tutorials/hello-world-rust)) Deploy serverless code instantly across the globe with Rust support.
-* [Dropbox](https://www.dropbox.com)([1](http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/), [2](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine)) - Optimizing cloud file-storage.
 * [Delimiter](https://www.delimiter.com) - Rust powers our bare metal provisioning system.
+* [Dropbox](https://www.dropbox.com)([1](http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/), [2](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine)) - Optimizing cloud file-storage.
 * [OVH](https://www.ovh.com)
   ([1](https://www.ovh.com/world/a2202.paas-logs-management-ovh)) - We used Rust to build a high performance, highly available log management system.
-* [Ceph](https://ceph.io/)([1](https://github.com/ceph/ceph-rust)) Rust bindings for librbd, an interface into the Ceph storage platform.
 * [Tailcall](https://tailcall.run)([1](https://github.com/tailcallhq)) - A cloud native solution to streamline API management across edge, middle, and service layers.
 * [Vercel](https://vercel.com/) ([GitHub](https://github.com/vercel) - [1](https://vercel.com/blog/vercel-functions-are-now-faster-and-powered-by-rust), [2](https://vercel.com/blog/finishing-turborepos-migration-from-go-to-rust)) - Cloud platform for static sites and serverless functions.
 
@@ -114,9 +114,9 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Braintree](https://www.braintreepayments.com) - Speeding up batch processing and for small command-line utilities.
 * [HyperSwitch](https://hyperswitch.io)
   ([GitHub](https://github.com/juspay/hyperswitch)) - An Open Source Financial Switch to make Payments fast, reliable & affordable.
+* [Kraken](https://kraken.com)([1](https://blog.kraken.com/product/engineering/oxidizing-kraken-improving-kraken-infrastructure-using-rust)) - Cryptocurrency exchange, based in the USA.
 * [Spoqa](https://www.spoqa.com) - Our POS integration SDK is entirely written in Rust.
 * [TenX](https://tenx.tech) - Building a secure and scalable distributed payments system in Rust.
-* [Kraken](https://kraken.com)([1](https://blog.kraken.com/product/engineering/oxidizing-kraken-improving-kraken-infrastructure-using-rust)) - Cryptocurrency exchange, based in the USA.
 
 #### Machine Learning | AI
 
@@ -132,8 +132,8 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [IamBot](http://iambot.ai) - Our high-performance data acquisition is fully implemented using Rust. Besides that, we are also using Rust for our API endpoints that communicate with internal systems.
 * [LanceDB](https://lancedb.com)
   ([GitHub](https://github.com/lancedb)) - Multimodal data platform built in Rust.
-* [Routific](https://routific.com) - High performance route optimization software.
 * [PolySync](https://polysync.io) - Building safety-critical runtime environments & infrastructure for autonomous vehicles.
+* [Routific](https://routific.com) - High performance route optimization software.
 * [Snips](https://snips.ai) - AI assistants that are private by design.
 * [TensorZero](https://www.tensorzero.com/)
   ([GitHub](https://github.com/tensorzero/tensorzero)) - Open source LLM gateway, observability, optimization, evaluations, and experimentation &mdash; built with Rust.
@@ -147,10 +147,10 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [49nord](https://49nord.de/rust) - 49nord develops safe and secure Industrial IoT hardware and applications using Rust.
 * [Calyptech](http://calyptech.com) - Used for high performance embedded system components as an alternative to C.
 * [Espressif](https://www.espressif.com/) ([GitHub](https://github.com/esp-rs/)) - Improving performance of embedded and IoT devices with using Rust in esp products.
-* [System76](https://system76.com)
-  ([GitHub](https://github.com/system76)) - As a Linux-based computer-manufacture, much of our infrastructure and desktop Linux projects are written in Rust.
 * [SmartThings](http://www.smartthings.com)([1](https://www.smartthings.com/how-it-works)) - Memory-safe embedded applications on our SmartThings Hub and supporting services in the cloud.
 * [Star Lab](https://starlab.io) - As an embedded security company, Rust allows us to have confidence in the performance and reliability of our products.
+* [System76](https://system76.com)
+  ([GitHub](https://github.com/system76)) - As a Linux-based computer-manufacture, much of our infrastructure and desktop Linux projects are written in Rust.
 
 #### Internet Service Provider
 
